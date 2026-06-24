@@ -55,6 +55,11 @@ This project provides an end-to-end analysis of an e-commerce dataset containing
 - GitHub
 
 ---
+## Dataset
+
+The original Olist E-Commerce dataset can be downloaded from:
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # 📂 Project Structure
 
