@@ -1,0 +1,13 @@
+# Database
+*.db
+
+# Large datasets
+data/raw/
+data/cleaned/final_dataset.csv
+data/cleaned/master_dataset.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI temp files
+*.pbix.autosave
